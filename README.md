@@ -9,6 +9,7 @@ Execute o comando npm start, o projeto iniciara na url http://localhost:3000
 
 
  # Aprendizados: 
-    - [x] Criação de um projeto REACR através do npx create-react-app
-    - [x] Aprendendo a utilzar componentes
-    - [x] Aprendendo sobre o children, forma de utilizar o componente dentro do outro
+   - [x] Criação de um projeto REACT através do npx create-react-app
+   - [x] Aprendendo a utilzar componentes
+   - [x] Aprendendo sobre o children e como utilizar o componente dentro do outro
+   - [x] Renderização condicional
